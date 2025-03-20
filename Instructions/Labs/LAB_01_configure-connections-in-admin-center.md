@@ -37,7 +37,7 @@ El siguiente paso es conceder permisos para el agente del conector de Graph de A
     - ExternalConnection -> ExternalConnection.ReadWrite.OwnedBy
     - ExternalItem -> ExternalItem.ReadWrite.All
       
-1. Seleccione el botón **Agregar permisos**.
+1. Pulse el botón **Agregar permisos**.
 1. Selecciona **Conceder consentimiento de administrador para Contoso** y confirma al seleccionar **Sí**.
 
 **Nota:** No cierres esta pestaña del explorador Edge. Las siguientes tareas requieren copiar y pegar información de Azure Portal.
